@@ -18,7 +18,7 @@ But if you are purposeful and want to help...
         - `--release`: `/target/release/tine`
 
 # Usage
-> ![WARNING]
+> [!NOTE]
 > Tine is currently not working on local networks.
 - `tine send <file_path>` to send data.
 - `tine get` to get data.
